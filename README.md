@@ -1,4 +1,5 @@
-![Cover](https://github.com/Yradouani/Yradouani/flower.jpg)
+![Cover](https://github.com/Yradouani/flower.jpg)
+
 # Hi everyone 👋
 ## My name is Yasmine and I'm an app developer
 
