@@ -1,5 +1,6 @@
+![Cover](https://github.com/Yradouani/Yradouani/flower.jpg)
 # Hi everyone 👋
-##My name is Yasmine and I'm an app developer
+## My name is Yasmine and I'm an app developer
 
 <!--
 **Yradouani/Yradouani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
